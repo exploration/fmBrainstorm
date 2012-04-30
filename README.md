@@ -27,7 +27,7 @@ We believe that you should be able to do everything without your hands leaving t
 -   Apple-Shift-N - create a new brainstorm category
 -   Apple-j / Apple-k - go to next category/previous category in list
     (loops around)
--   Apple-Shift-} / Apple-Shift-{-go to next/previous idea in selected
+-   Apple-Shift-} / Apple-Shift-{ - go to next/previous idea in selected
     category (loops around)
 -   tab - cycle between fields (shift-tab to go backwards)
 -   Apple-Shift-E - export a brainstorm outline to the desktop
