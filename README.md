@@ -1,7 +1,7 @@
 fmBrainstorm
 ============
 
-_Author: [Donald L. Merand](http://donaldmerand.com)
+_Author: [Donald L. Merand](http://donaldmerand.com)_
 
 fmBrainstorm is based around the idea of a brainstorm meeting.
 Meeting attendees open up a brainstorm record, and add their ideas,
@@ -48,8 +48,10 @@ To use the word cloud application, you'll need to do a couple of things.
 -   Now, open up the `brainstorm_tagcloud.pde`, which should launch Processing
 -   Find the part of the code that looks like this:
 
-    //SET THIS TO THE TITLE OF THE BRAINSTORM YOU WANT TO USE
-    String brainstormTitle = "curriculum course ideas";
+```
+//SET THIS TO THE TITLE OF THE BRAINSTORM YOU WANT TO USE  
+String brainstormTitle = "curriculum course ideas";
+```
 
 -   Replace the part in quotes with the title of the brainstorm you want
     to “cloud” (see note above about naming your brainstorms).
@@ -81,4 +83,4 @@ Processing using the JDBC connection feature of FileMaker.
     /Library/Java/Extensions/fmjbc.jar . This allows you to use
     FileMaker JDBC access in Java, and Processing, files.
 
-Okay! Your system is now ready to do some integratin'. [Here](samples/fm_processing.pde)'s a sample code snippet showing how access might work in Processing.
+Okay! Your system is now ready to do some integratin'. You can find a sample of how you might do this in the `samples/` folder. Also check the `visualizations` folder to see a more involved example using the fmBrainstorm database. 
