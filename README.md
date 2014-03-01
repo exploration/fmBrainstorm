@@ -15,6 +15,12 @@ radio button where it says “Network Sharing”. You only have to do this
 from one computer - the other people connect to that computer using
 File→Open Remote.
 
+**Updated 2014.02.28 ** - I took the original, converted it to FileMaker 12
+format, and hacked the "open window" script to simply go to the proper layout
+without opening a new window. I also went through and increased the font sizes
+and button targets, and made the layout sizes more conformant to iPad screen
+sizes. 
+
 
 General Usage
 =============
